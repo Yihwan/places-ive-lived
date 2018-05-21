@@ -43,13 +43,13 @@ body {
 }
 
 
-.panel1 { background-image:url('./images/la.JPG'); }
-.panel2 { background-image:url('./images/tree.JPG'); }
-.panel3 { background-image:url('./images/sf.JPG'); }
-.panel4 { background-image:url('./images/nyc.JPG'); }
-.panel5 { background-image:url('./images/qui.JPG'); }
-.panel6 { background-image:url('./images/stgo.JPG'); }
-.panel7 { background-image:url('./images/sp.JPG'); }
+.panel1 { background-image:url('./images/la.jpg'); }
+.panel2 { background-image:url('./images/tree.jpg'); }
+.panel3 { background-image:url('./images/sf.jpg'); }
+.panel4 { background-image:url('./images/nyc.jpg'); }
+.panel5 { background-image:url('./images/qui.jpg'); }
+.panel6 { background-image:url('./images/stgo.jpg'); }
+.panel7 { background-image:url('./images/sp.jpg'); }
 
 .panel > * {
   margin:0;
